@@ -1,5 +1,0 @@
-site_name: CDC-TOSTADAS
-theme: 
-  name: material
-  features:
-    - navigation.tabs
