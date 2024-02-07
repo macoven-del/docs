@@ -1,5 +1,6 @@
 site_name: TOSTADAS Documentation
 theme:
+  name: material
   features:
     - navigation.tabs
     - navigation.sections
