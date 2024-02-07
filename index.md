@@ -1,4 +1,4 @@
-# TOSTADAS → Toolkit for Open Sequence Triage, Annotation and DAtabase Submission 🧬 💻
+# TOSTADAS (Toolkit for Open Sequence Triage, Annotation and DAtabase Submission 🧬 💻)
 ## PATHOGEN ANNOTATION AND SUBMISSION PIPELINE
 Nextflow run with conda run with docker run with singularity
 
