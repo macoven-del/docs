@@ -1,1 +1,3 @@
 site_name: CDC-TOSTADAS
+theme:
+  name: material
