@@ -1,1 +1,3 @@
 site_name: TOSTADAS Documentation
+theme:
+  name: mkdocs
